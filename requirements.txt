@@ -11,3 +11,4 @@ matplotlib
 tqdm
 seaborn
 PyWavelets
+ace_tools
