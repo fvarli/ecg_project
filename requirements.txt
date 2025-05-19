@@ -8,3 +8,6 @@ scipy
 scikit-learn
 neurokit2
 matplotlib
+tqdm
+seaborn
+PyWavelets
